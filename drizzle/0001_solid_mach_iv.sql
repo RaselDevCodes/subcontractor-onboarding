@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `prime_vendor_link_unique` ON `prime_vendor_links` (`prime_company_id`,`vendor_company_id`);
